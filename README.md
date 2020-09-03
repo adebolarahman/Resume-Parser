@@ -1,0 +1,2 @@
+# Resume-Parser
+ HR recruitment team uses vendors and email referrals to pool applicants and manually migrate each applicant as they progress through the recruitment process. The recruitment team  now  obtain the segregated set of résumés which are thousands of counts, then manual analysis of each résumé is required to mine for the best candidates. Here comes in NATURAL LANGUAGE PROCESSING (NLP) to read the bulk résumés and recommend right candidates to the business based on defined words or criteria by the HR
